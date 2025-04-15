@@ -1,7 +1,5 @@
 <div align="center">
 
-# <span style="font-size: 4em;">**Mavors**</span>
-
 <img src="./src/images/mavors.png" alt="Project Logo" width="400">
 
 </div>
