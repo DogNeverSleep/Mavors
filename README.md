@@ -8,8 +8,6 @@
 
 ## Mavors: Multi-granularity Video Representation for Multimodal Large Language Model
 
----
-
 **Project Page:** [![Mavors-project-page](https://img.shields.io/badge/Mavors-project_page-red)](https://mavors-mllm.github.io/) 
 
 **arXiv Paper:** [![Static Badge](https://img.shields.io/badge/Mavors-paper-green)](https://arxiv.org/pdf/2504.10068) 
