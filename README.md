@@ -12,3 +12,16 @@
 
 ## 📢 News
 - **[2025/04/15]** Mavors is released! 🎉 We will gradually open source the code and checkpoints. 😁
+
+## 📚 Citation
+```bibtex
+@misc{shi2025mavorsmultigranularityvideorepresentation,
+    title={Mavors: Multi-granularity Video Representation for Multimodal Large Language Model}, 
+    author={Yang Shi and Jiaheng Liu and Yushuo Guan and Zhenhua Wu and Yuanxing Zhang and Zihao Wang and Weihong Lin and Jingyun Hua and Zekun Wang and Xinlong Chen and Bohan Zeng and Wentao Zhang and Fuzheng Zhang and Wenjing Yang and Di Zhang},
+    year={2025},
+    eprint={2504.10068},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV},
+    url={https://arxiv.org/abs/2504.10068}, 
+}
+```
